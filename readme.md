@@ -1,3 +1,9 @@
-3ª tentativa de criar red ok
+Projeto treinamento Spling
 
-Hollo wold
+Autor Sandro Romaniuc
+
+<h1> Iniciando trabalhos de configuração e git</h1>
+
+
+
+
